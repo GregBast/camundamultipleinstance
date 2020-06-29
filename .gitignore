@@ -1,0 +1,15 @@
+.settings
+**/.settings
+target
+**/target
+.classpath
+**/.classpath
+.project
+**/.project
+.tern-project
+**/.tern-project
+.idea
+**/.idea
+.idea/*
+.iml
+**/*.iml
